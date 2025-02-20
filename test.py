@@ -5,3 +5,6 @@ else:
   print('nonono')
 
 print(test)
+print(test)
+print(test)
+
