@@ -1,7 +1,6 @@
-test = 1
-if test >= 1:
-  print("123")
-else:
-  print('nonono')
+a = 1
 
-print(test)
+while a <= 10:
+  a = a+1 
+  print(a)
+print("End!")
